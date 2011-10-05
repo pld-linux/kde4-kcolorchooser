@@ -4,12 +4,12 @@
 Summary:	Color chooser
 Summary(pl.UTF-8):	Program do wybierania kolorów
 Name:		kcolorchooser
-Version:	4.7.1
-Release:	2
+Version:	4.7.2
+Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{name}-%{version}.tar.bz2
-# Source0-md5:	9b8074f7362a6ad4a35fbebb0156a0f1
+# Source0-md5:	b812ba74b8c3c452626d00c9308fd41a
 URL:		http://www.kde.org/
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
