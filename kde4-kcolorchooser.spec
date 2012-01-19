@@ -1,15 +1,15 @@
 %define		_state		stable
-%define		qtver		4.7.4
+%define		qtver		4.8.0
 
 Summary:	Color chooser
 Summary(pl.UTF-8):	Program do wybierania kolorów
 Name:		kcolorchooser
-Version:	4.7.4
+Version:	4.8.0
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{name}-%{version}.tar.bz2
-# Source0-md5:	9a66ae51f42f681344664efb87645e38
+# Source0-md5:	48ede55e885819143f229c1f6bb2d388
 URL:		http://www.kde.org/
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
