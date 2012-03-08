@@ -9,7 +9,7 @@ Version:	4.8.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
-Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/xz/%{orgname}-%{version}.tar.xz
+Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
 # Source0-md5:	9ae91d18499cc185b385bf0c508bb08d
 URL:		http://www.kde.org/
 BuildRequires:	cmake >= 2.8.0
