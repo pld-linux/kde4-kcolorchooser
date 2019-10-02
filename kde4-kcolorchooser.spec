@@ -6,7 +6,7 @@ Summary:	Color chooser
 Summary(pl.UTF-8):	Program do wybierania kolorów
 Name:		kde4-kcolorchooser
 Version:	4.14.3
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
